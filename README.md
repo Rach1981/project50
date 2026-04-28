@@ -1,1 +1,1 @@
-Whe you remote button, IR signal to IR receiver go to arduino. if you press1 led turn on and when you press 2 motor starts.so depending the button pressed, it can turn led on/off.
+The project goal is creating on IR Remote control Arduino.This is to control the circuit with our IR remote.So when you press case(the first one) light (led3) must light on or when you press offf the light must turn off. We modified code to allowed  using sumsung IR remote.
